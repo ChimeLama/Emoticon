@@ -1,0 +1,17 @@
+.wow {
+  width: 100px;
+}
+.header{
+  text-align:center;
+  background-color: #fbfefc;
+  color: #2caf5e;
+  font-family: 'Roboto Mono', monospace;
+  padding: 50px;
+}
+body{
+  background-color:#f9dbff;
+}
+.app{
+  position:absolute;
+  right:700px;
+}
